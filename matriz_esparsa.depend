@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1529112035 source:c:\users\victor\desktop\icc\matriz_esparsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"funcoes.h"
+
+1529111113 c:\users\victor\desktop\icc\matriz_esparsa\funcoes.h
+

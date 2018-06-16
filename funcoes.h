@@ -1,0 +1,14 @@
+void menu(struct matriz *matriz);
+void inserir(struct matriz *matriz);
+void insere_campo(double valor, int linha, int coluna,struct matriz *matriz);
+double soma_linha(int linha,struct matriz *matriz);
+double soma_coluna(int coluna,struct matriz *matriz);
+void somar_coluna(struct matriz *matriz);
+void somar_linha(struct matriz *matriz);
+void consultar(struct matriz *matriz);
+double consulta(int i, int j,struct matriz *matriz);
+void excluir_matriz(struct matriz *matriz);
+void troca_linha(int i1, int i2, struct matriz *matriz);
+void muda_valor(int i, int j, double valor, struct matriz *matriz);
+void troca_linha(int i1, int i2, struct matriz *matriz);
+double calcula_determinante(struct matriz *matriz);
