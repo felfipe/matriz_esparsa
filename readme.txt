@@ -1,1 +1,0 @@
-Este programa foi proposto pela disciplina de ICC, e desenvolvido por Victor Felipe Domingues do Amaral - Nº USP 10696506 (P0). O trabalho consiste em implementar uma matriz Esparsa. Para mais informacoes, leia o relatório. 
